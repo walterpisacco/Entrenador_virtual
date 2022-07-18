@@ -1,5 +1,5 @@
 # Inteligencia Artificial Aplicada
-![Vision Artificial](https://github.com/walterpisacco/Entrenador_virtual/entrenador.png)
+![Vision Artificial](https://github.com/walterpisacco/Entrenador_virtual/blob/main/entrenador.png)
 
 # Python 3.8
 
